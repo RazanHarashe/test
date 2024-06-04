@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+h1{
+    background-color: lightgray;
+}
+
 p{
     color: red;
 }
